@@ -22,7 +22,7 @@ This project demonstrates a complete **CI/CD pipeline** setup for deploying a fu
 - `/ci-scripts`: Shell scripts for installing Jenkins, Docker, Prometheus, Grafana, and Blackbox Exporter.
 - `/kubernetes`: Kubernetes manifests for deploying the app and setting up roles and access.
 - `/terraform`: Infrastructure as Code (IaC) files to provision an EKS cluster.
-- `/src`: The source code and Dockerfile for the blogging application.
+- `/src`: The source code and Dockerfile for the SocialMedia application.
 
 ## CI/CD Pipeline Overview
 
