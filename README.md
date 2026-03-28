@@ -48,3 +48,5 @@ This project demonstrates a complete **CI/CD pipeline** setup for deploying a fu
 ```bash
 git clone https://github.com/LokeshPonthala/SocialmediaAPP.git
 cd SocialmediaAPP
+
+######## I used an Existing sample app and Implemented a complete CI/CD Pipeline ########
