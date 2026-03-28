@@ -1,4 +1,4 @@
-# Full-Stack Blogging App CI/CD Project 🚀
+# SocialMedia App CI/CD Project 🚀
 
 ## Project Overview
 This project demonstrates a complete **CI/CD pipeline** setup for deploying a full-stack blogging application, integrating modern tools like Jenkins, SonarQube, Nexus, Docker, Kubernetes (EKS), and Prometheus for monitoring. This repository showcases the **automation of code quality checks, artifact management, application deployment, and monitoring** in a production-like environment.
